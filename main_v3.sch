@@ -4189,8 +4189,8 @@ at 30/07/2012 17:45:58</description>
 </net>
 <net name="GND" class="0">
 <segment>
-<pinref part="SV1" gate="1" pin="4"/>
-<wire x1="104.14" y1="106.68" x2="109.22" y2="114.3" width="0.1524" layer="91"/>
+<pinref part="SV1" gate="1" pin="2"/>
+<wire x1="104.14" y1="106.68" x2="104.14" y2="114.3" width="0.1524" layer="91"/>
 <pinref part="SUPPLY3" gate="GND" pin="GND"/>
 </segment>
 <segment>
@@ -4422,8 +4422,8 @@ at 30/07/2012 17:45:58</description>
 <wire x1="215.9" y1="12.7" x2="220.98" y2="12.7" width="0.1524" layer="91"/>
 <wire x1="213.36" y1="7.62" x2="210.82" y2="7.62" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="7.62" x2="210.82" y2="-7.62" width="0.1524" layer="91"/>
-<pinref part="SV1" gate="1" pin="2"/>
-<wire x1="104.14" y1="114.3" x2="109.22" y2="111.76" width="0.1524" layer="91"/>
+<pinref part="SV1" gate="1" pin="4"/>
+<wire x1="109.22" y1="114.3" x2="109.22" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="109.22" y1="111.76" x2="149.86" y2="111.76" width="0.1524" layer="91"/>
 <wire x1="210.82" y1="-7.62" x2="149.86" y2="-7.62" width="0.1524" layer="91"/>
 <wire x1="149.86" y1="-7.62" x2="149.86" y2="111.76" width="0.1524" layer="91"/>

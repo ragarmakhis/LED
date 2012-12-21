@@ -2,8 +2,8 @@ EAGLE AutoRouter Statistics:
 
 Job           : /Users/cut1/Documents/eagle/LED/main_v3.brd
 
-Start at      : 23:19:59 (21.12.12)
-End at        : 23:20:05 (21.12.12)
+Start at      : 23:25:17 (21.12.12)
+End at        : 23:25:23 (21.12.12)
 Elapsed time  : 00:00:06
 
 Signals       :    33   RoutingGrid: 50 mil  Layers: 1
